@@ -16,3 +16,5 @@
 ### Blog 정리 내용
 1. [예외 처리](https://hyeonstone.tistory.com/entry/Java-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC-%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8)
 - 참고 강의 : [생활코딩-Java 예외](https://www.youtube.com/watch?v=HZL4iUUx4_E&list=PLuHgQVnccGMCrFJLxpjhE0N5tvOVxJuVB&index=1)
+2. 상속
+- 기초 참고 강의(오버로딩/오버라이딩/생성자/this와 super) : [생활코딩-Java 상속](https://www.youtube.com/watch?v=tsgJEm-pq2E&list=PLuHgQVnccGMA1bRSk_SZrXMngx5iq03cc&index=1)
