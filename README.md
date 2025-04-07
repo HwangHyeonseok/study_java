@@ -1,5 +1,3 @@
-## About Repository
-
 이 저장소는 ☕`Java`를 공부하며 쉽게 정리한 내용을 담고 있습니다.
 <br />
 
@@ -18,3 +16,4 @@
 - 참고 강의 : [생활코딩-Java 예외](https://www.youtube.com/watch?v=HZL4iUUx4_E&list=PLuHgQVnccGMCrFJLxpjhE0N5tvOVxJuVB&index=1)
 2. 상속
 - 기초 참고 강의(오버로딩/오버라이딩/생성자/this와 super) : [생활코딩-Java 상속](https://www.youtube.com/watch?v=tsgJEm-pq2E&list=PLuHgQVnccGMA1bRSk_SZrXMngx5iq03cc&index=1)
+- 상속+생성자 심화 문제 : [흥달쌤 JAVA | 생성자](https://www.youtube.com/watch?v=VUrCz2D-DJQ) (gudetama 정리노트 27p)
